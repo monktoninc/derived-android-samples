@@ -6,6 +6,17 @@
 .DS_Store
 /build
 /captures
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+local.properties
+.navigation/
 
 **/.idea/workspace.xml 
 **/.idea/tasks.xml
+
+# We aren't going to check in DerivedKit into this demo project.
+# Should be checked in with production build systems
+**/DerivedKit.aar
