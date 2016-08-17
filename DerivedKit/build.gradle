@@ -1,2 +1,2 @@
 configurations.maybeCreate("default")
-artifacts.add("default", file('DerivedKit.aar'))
+artifacts.add("default", file('/Library/Frameworks/DerivedKitAndroid/DerivedKit.aar'))
