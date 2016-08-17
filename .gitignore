@@ -20,3 +20,5 @@ local.properties
 # We aren't going to check in DerivedKit into this demo project.
 # Should be checked in with production build systems
 **/DerivedKit.aar
+
+**/build/
